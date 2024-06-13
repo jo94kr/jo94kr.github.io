@@ -194,6 +194,9 @@ defaults:
       layout: page
       permalink: /:title/
 
+plugins:
+  - jekyll-seo-tag
+
 sass:
   style: compressed
 
