@@ -1,3 +1,19 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "calendar",
+  "obsidian-checklist-plugin",
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "obsidian-icon-folder",
+  "obsidian-kanban",
+  "obsidian-tasks-plugin",
+  "execute-code",
+  "editing-toolbar",
+  "obsidian-style-settings",
+  "obsidian-custom-frames",
+  "folder-note-plugin",
+  "android-nomedia",
+  "obsidian-outliner",
+  "templater-obsidian"
 ]

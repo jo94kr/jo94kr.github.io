@@ -1,1 +1,6 @@
-{}
+{
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "99.Manage/files",
+  "showLineNumber": true,
+  "readableLineLength": false
+}

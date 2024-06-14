@@ -1,0 +1,16 @@
+{
+  "frames": [
+    {
+      "url": "https://duby.dev/",
+      "displayName": "Formatter",
+      "icon": "braces",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": true,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}
