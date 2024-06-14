@@ -25,3 +25,17 @@ package-lock.json
 # Misc
 # _sass/dist
 # assets/js/dist
+
+
+# Obsidian
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json
+.obsidian/app.json
+
+.trash/
+.DS_Store
+
+.obsidian/plugins/excute-code
+.obsidian/plugins/obsidian-git
+.obsidian/workspace*.json
+.obsidian/app*.json
