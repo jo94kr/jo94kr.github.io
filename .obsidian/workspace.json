@@ -11,8 +11,12 @@
             "id": "498d796edbe84d02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-06-15-항해 플러스 벡엔드 시작하는마음.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2024-06-15-항해 플러스 벡엔드 시작하는마음.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2024-06-15-항해 플러스 벡엔드 시작하는마음.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2024-06-15-항해 플러스 벡엔드 시작하는마음.md"
+              }
             }
           },
           {
@@ -162,6 +170,7 @@
   },
   "active": "498d796edbe84d02",
   "lastOpenFiles": [
+    "_posts/2024-06-15-항해 플러스 벡엔드 시작하는마음.md",
     "02.Project/Blog/2024-06-14-.md",
     "02.Project/Blog/01.게시글 작성하기.md",
     "03.Area/03.Area.md",
@@ -196,7 +205,6 @@
     "01.Memo/01.Memo.md",
     "02.Project/task/Forbiz/글로벌 elastic 적용.md",
     "02.Project/task/Forbiz/Price 타입 글로벌 통화로 변경.md",
-    "01.Memo/Memo.md",
-    "01.Memo/접속정보.md"
+    "01.Memo/Memo.md"
   ]
 }
