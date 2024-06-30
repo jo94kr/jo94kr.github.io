@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-06-15-항해-플러스-백엔드-과정을-시작하며.md",
-                "mode": "preview",
-                "source": false
+                "file": "_posts/2024-06-29-항해-플러스-백엔드-과정-2주차-회고.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 454.5
   },
   "right": {
     "id": "d594e1b4b022f1a1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-06-15-항해-플러스-백엔드-과정을-시작하며.md",
+                "file": "_posts/2024-06-29-항해-플러스-백엔드-과정-2주차-회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-06-15-항해-플러스-백엔드-과정을-시작하며.md",
+                "file": "_posts/2024-06-29-항해-플러스-백엔드-과정-2주차-회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-06-15-항해-플러스-백엔드-과정을-시작하며.md"
+                "file": "_posts/2024-06-29-항해-플러스-백엔드-과정-2주차-회고.md"
               }
             }
           },
@@ -170,8 +170,16 @@
   },
   "active": "498d796edbe84d02",
   "lastOpenFiles": [
-    "_posts/2024-06-13-테스트-게시물.md",
+    "_posts/2024-06-22-항해-플러스-백엔드-과정-1주차-회고.md",
+    "_posts/2024-06-29-항해-플러스-백엔드-과정-2주차-회고.md",
     "_posts/2024-06-15-항해-플러스-백엔드-과정을-시작하며.md",
+    "obsidian/template/post.md",
+    "_posts/2024-06-23-.md",
+    "_posts/2024-06-23.md",
+    "obsidian/template",
+    "obsidian",
+    "_posts/2024-06-15-항해-플러스-백엔드-과정을-시작하며 copy.md",
+    "_posts/2024-06-13-테스트-게시물.md",
     "_posts/2019-08-11-customize-the-favicon.md",
     "_posts/2019-08-09-getting-started.md",
     "_posts/2019-08-08-write-a-new-post.md",
@@ -197,14 +205,6 @@
     "03.Area/study/DEV/DDD/DDD.md",
     "03.Area/study/DEV/DDD",
     "03.Area/study/DEV/AI.md",
-    "02.Project/항해99/무제 파일.md",
-    "02.Project/항해99",
-    "02.Project/task/Forbiz/글로벌 변환 작업/글로벌 상품 변환.md",
-    "02.Project/task/Forbiz/글로벌 변환 작업/글로벌 elastic 적용.md",
-    "02.Project/task/Forbiz/글로벌 변환 작업/Price 타입 글로벌 통화로 변경.md",
-    "02.Project/task/Forbiz/글로벌 변환 작업",
-    "02.Project/Obsidian/설정.md",
-    "02.Project/Blog/Git Blog 만들기.md",
-    "02.Project/Blog/2024-06-14-Obsidian 템플릿 추가.md"
+    "02.Project/항해99/무제 파일.md"
   ]
 }
