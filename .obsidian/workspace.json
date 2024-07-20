@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-13-항해-플러스-백엔드-과정-4주차-회고.md",
+                "file": "_posts/2024-07-20-항해-플러스-백엔드-과정-5주차-회고.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-13-항해-플러스-백엔드-과정-4주차-회고.md",
+                "file": "_posts/2024-07-20-항해-플러스-백엔드-과정-5주차-회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-13-항해-플러스-백엔드-과정-4주차-회고.md",
+                "file": "_posts/2024-07-20-항해-플러스-백엔드-과정-5주차-회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-13-항해-플러스-백엔드-과정-4주차-회고.md"
+                "file": "_posts/2024-07-20-항해-플러스-백엔드-과정-5주차-회고.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "498d796edbe84d02",
   "lastOpenFiles": [
-    "_posts/2024-07-06-항해-플러스-백엔드-과정-3주차-회고.md",
     "_posts/2024-07-13-항해-플러스-백엔드-과정-4주차-회고.md",
+    "_posts/2024-07-20-항해-플러스-백엔드-과정-5주차-회고.md",
+    "_posts/2024-07-06-항해-플러스-백엔드-과정-3주차-회고.md",
     "_posts/2024-06-29-항해-플러스-백엔드-과정-2주차-회고.md",
     "_posts/2024-06-22-항해-플러스-백엔드-과정-1주차-회고.md",
     "_posts/2024-06-15-항해-플러스-백엔드-과정을-시작하며.md",
@@ -204,7 +205,6 @@
     "03.Area/study/DEV/Java/Spring",
     "03.Area/study/DEV/Elasticsearch/plugin/형태소 분석기.md",
     "03.Area/study/DEV/Elasticsearch/plugin",
-    "03.Area/study/DEV/DDD/DDD.md",
     "03.Area/study/DEV/DDD"
   ]
 }
