@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a9560d16b3ecff5b",
+        "id": "2342e5239eb41694",
         "type": "tabs",
         "children": [
           {
-            "id": "168b02fdb332a25b",
+            "id": "498d796edbe84d02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-20-항해-플러스-백엔드-과정-5주차-회고와-챕터2-후기.md",
+                "file": "_posts/2024-07-27-항해-플러스-백엔드-과정-6주차-회고.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 300
   },
   "right": {
     "id": "d594e1b4b022f1a1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-20-항해-플러스-백엔드-과정-5주차-회고와-챕터2-후기.md",
+                "file": "_posts/2024-07-27-항해-플러스-백엔드-과정-6주차-회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-20-항해-플러스-백엔드-과정-5주차-회고와-챕터2-후기.md",
+                "file": "_posts/2024-07-27-항해-플러스-백엔드-과정-6주차-회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-20-항해-플러스-백엔드-과정-5주차-회고와-챕터2-후기.md"
+                "file": "_posts/2024-07-27-항해-플러스-백엔드-과정-6주차-회고.md"
               }
             }
           },
@@ -168,23 +168,21 @@
       "obsidian-custom-frames:Open Formatter": false
     }
   },
-  "active": "168b02fdb332a25b",
+  "active": "498d796edbe84d02",
   "lastOpenFiles": [
-    "files/image/team_10.png",
+    "_posts/2024-07-06-항해-플러스-백엔드-과정-3주차-회고.md",
+    "_posts/2024-07-13-항해-플러스-백엔드-과정-4주차-회고.md",
+    "_posts/2024-07-27-항해-플러스-백엔드-과정-6주차-회고.md",
     "_posts/2024-07-20-항해-플러스-백엔드-과정-5주차-회고와-챕터2-후기.md",
+    "_posts/2024-06-29-항해-플러스-백엔드-과정-2주차-회고.md",
+    "files/image/team_10.png",
     "files/image",
     "files",
-    "_posts/2024-07-13-항해-플러스-백엔드-과정-4주차-회고.md",
-    "_posts/2024-07-06-항해-플러스-백엔드-과정-3주차-회고.md",
-    "_posts/2024-06-29-항해-플러스-백엔드-과정-2주차-회고.md",
-    "_posts/2024-06-22-항해-플러스-백엔드-과정-1주차-회고.md",
     "_posts/2024-06-15-항해-플러스-백엔드-과정을-시작하며.md",
     "obsidian/template/post.md",
-    "_posts/2024-06-23-.md",
-    "_posts/2024-06-23.md",
     "obsidian/template",
     "obsidian",
-    "_posts/2024-06-15-항해-플러스-백엔드-과정을-시작하며 copy.md",
+    "_posts/2024-06-22-항해-플러스-백엔드-과정-1주차-회고.md",
     "_posts/2024-06-13-테스트-게시물.md",
     "_posts/2019-08-11-customize-the-favicon.md",
     "_posts/2019-08-09-getting-started.md",
@@ -205,6 +203,9 @@
     "03.Area/study/DEV/Java/Spring/Spring Security.md",
     "03.Area/study/DEV/Java/Spring/Spring Request Logging.md",
     "03.Area/study/DEV/Java/Spring/Spring Boot Webflux.md",
-    "03.Area/study/DEV/Java/Spring"
+    "03.Area/study/DEV/Java/Spring",
+    "03.Area/study/DEV/Elasticsearch/plugin/형태소 분석기.md",
+    "03.Area/study/DEV/DDD/DDD.md",
+    "03.Area/study/DEV/AI.md"
   ]
 }
