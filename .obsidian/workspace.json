@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-03-대기열-시스템-설계.md",
+                "file": "_posts/2024-08-03-캐시를-통한-성능-개선.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-03-대기열-시스템-설계.md",
+                "file": "_posts/2024-08-03-캐시를-통한-성능-개선.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-03-대기열-시스템-설계.md",
+                "file": "_posts/2024-08-03-캐시를-통한-성능-개선.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-03-대기열-시스템-설계.md"
+                "file": "_posts/2024-08-03-캐시를-통한-성능-개선.md"
               }
             }
           },
@@ -170,11 +170,11 @@
   },
   "active": "168b02fdb332a25b",
   "lastOpenFiles": [
+    "_posts/2024-08-03-대기열-시스템-설계.md",
     "_posts/2024-08-03-캐시를-통한-성능-개선.md",
     "Pasted image 20240803104640.png",
     "_posts/2024-07-28-동시성-문제-극복하기.md",
     "Pasted image 20240803104628.png",
-    "_posts/2024-08-03-대기열-시스템-설계.md",
     "_posts/무제 파일.md",
     "_posts/2024-07-20-항해-플러스-백엔드-과정-5주차-회고와-챕터2-후기.md",
     "_posts/2024-07-27-항해-플러스-백엔드-과정-6주차-회고.md",
