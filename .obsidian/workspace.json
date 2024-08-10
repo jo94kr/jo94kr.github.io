@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-03-항해-플러스-백엔드-과정-7주차-회고.md",
+                "file": "_posts/2024-08-10-항해-플러스-백엔드-과정-8주차-회고.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-03-항해-플러스-백엔드-과정-7주차-회고.md",
+                "file": "_posts/2024-08-10-항해-플러스-백엔드-과정-8주차-회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-03-항해-플러스-백엔드-과정-7주차-회고.md",
+                "file": "_posts/2024-08-10-항해-플러스-백엔드-과정-8주차-회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-03-항해-플러스-백엔드-과정-7주차-회고.md"
+                "file": "_posts/2024-08-10-항해-플러스-백엔드-과정-8주차-회고.md"
               }
             }
           },
@@ -170,9 +170,10 @@
   },
   "active": "168b02fdb332a25b",
   "lastOpenFiles": [
+    "_posts/2024-08-03-항해-플러스-백엔드-과정-7주차-회고.md",
+    "_posts/2024-08-10-항해-플러스-백엔드-과정-8주차-회고.md",
     "_posts/2024-08-03-캐시를-통한-성능-개선.md",
     "_posts/2024-08-03-대기열-시스템-설계.md",
-    "_posts/2024-08-03-항해-플러스-백엔드-과정-7주차-회고.md",
     "_posts/2024-07-20-항해-플러스-백엔드-과정-5주차-회고와-챕터2-후기.md",
     "_posts/2024-06-22-항해-플러스-백엔드-과정-1주차-회고.md",
     "_posts/2024-06-15-항해-플러스-백엔드-과정을-시작하며.md",
@@ -207,7 +208,6 @@
     "99.Manage/files/TDD_low.pdf",
     "99.Manage/files/TDD_low 1.pdf",
     "99.Manage/files/DDD-START!.pdf",
-    "03.Area/study/DEV/TDD/테스트 주도 개발 시작하기 - 최범균.md",
     "03.Area/study/DEV/TDD",
     "03.Area/study/DEV/Java/Spring"
   ]
