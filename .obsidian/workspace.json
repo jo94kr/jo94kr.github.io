@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "2297479c846194d8",
+    "id": "6804501a06d0efd1",
     "type": "split",
     "children": [
       {
-        "id": "a9560d16b3ecff5b",
+        "id": "6a1c6b8b82166209",
         "type": "tabs",
         "children": [
           {
-            "id": "168b02fdb332a25b",
+            "id": "dfad83dcb25b13d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c28d4e3252e77ce6",
+    "id": "b283e05e7179ae68",
     "type": "split",
     "children": [
       {
-        "id": "33dcbbd5f894cf0e",
+        "id": "4935d48636132dc6",
         "type": "tabs",
         "children": [
           {
-            "id": "dadef6a84b11599e",
+            "id": "57f3aba574f57710",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "c85562420dca622e",
+            "id": "13783f5f269badf7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:항해_플러스_벡엔드",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "b3cf7d3738f90234",
+            "id": "37d7e220a5addabd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463.5
+    "width": 470.5
   },
   "right": {
-    "id": "d594e1b4b022f1a1",
+    "id": "0556e46a8490024f",
     "type": "split",
     "children": [
       {
-        "id": "5294bb6cbad164bf",
+        "id": "fdc787198328f85f",
         "type": "tabs",
         "children": [
           {
-            "id": "a32d3a75959dd8bc",
+            "id": "e7aef72d43ab7f4c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "5317efb3abe5dbf1",
+            "id": "5517ac3216021932",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "8b1c80f776ed2703",
+            "id": "848f9e96a4cb6d1e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "becb082c7fa3a2d5",
+            "id": "77914607817e9cb8",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -130,7 +130,7 @@
             }
           },
           {
-            "id": "fc1201d3f7345b78",
+            "id": "b07f382adc2232a9",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "bd2d173ccfbd68af",
+            "id": "9e200f1ebb78073a",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -155,60 +155,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-custom-frames:Open Formatter": false,
+      "templater-obsidian:Templater": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-custom-frames:Open Formatter": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "168b02fdb332a25b",
+  "active": "dfad83dcb25b13d5",
   "lastOpenFiles": [
-    "_posts/2024-08-03-항해-플러스-백엔드-과정-7주차-회고.md",
-    "_posts/2024-08-17-항해-플러스-백엔드-과정-9주차-회고.md",
     "_posts/2024-08-10-항해-플러스-백엔드-과정-8주차-회고.md",
+    "_posts/2024-08-17-항해-플러스-백엔드-과정-9주차-회고.md",
     "_posts/2024-07-27-항해-플러스-백엔드-과정-6주차-회고.md",
     "_posts/2024-07-28-동시성-문제-극복하기.md",
     "_posts/2024-08-03-캐시를-통한-성능-개선.md",
-    "_posts/2024-08-03-대기열-시스템-설계.md",
+    "_posts/2024-08-03-항해-플러스-백엔드-과정-7주차-회고.md",
     "_posts/2024-07-20-항해-플러스-백엔드-과정-5주차-회고와-챕터2-후기.md",
-    "_posts/2024-06-22-항해-플러스-백엔드-과정-1주차-회고.md",
-    "_posts/2024-06-15-항해-플러스-백엔드-과정을-시작하며.md",
-    "Pasted image 20240803104640.png",
-    "Pasted image 20240803104628.png",
-    "_posts/무제 파일.md",
-    "Pasted image 20240729181527.png",
+    "_posts/2024-07-13-항해-플러스-백엔드-과정-4주차-회고.md",
+    "_posts/2024-06-29-항해-플러스-백엔드-과정-2주차-회고.md",
+    "obsidian/template/post.md",
+    "obsidian/template",
+    "obsidian",
     "files/image/team_10.png",
     "files/image",
     "files",
-    "_posts/2024-07-13-항해-플러스-백엔드-과정-4주차-회고.md",
-    "_posts/2024-07-06-항해-플러스-백엔드-과정-3주차-회고.md",
-    "_posts/2024-06-29-항해-플러스-백엔드-과정-2주차-회고.md",
-    "obsidian/template/post.md",
-    "_posts/2024-06-23-.md",
-    "_posts/2024-06-23.md",
-    "obsidian/template",
-    "obsidian",
-    "_posts/2024-06-15-항해-플러스-백엔드-과정을-시작하며 copy.md",
+    "_posts/2019-08-08-write-a-new-post.md",
+    "_posts/2019-08-09-getting-started.md",
     "_posts/2024-06-13-테스트-게시물.md",
     "_posts/2019-08-11-customize-the-favicon.md",
-    "_posts/2019-08-09-getting-started.md",
-    "_posts/2019-08-08-write-a-new-post.md",
-    "_posts/2024-06-15-항해_플러스_백엔드_시작하는마음.md",
-    "02.Project/Blog/2024-06-14-.md",
-    "02.Project/Blog/01.게시글 작성하기.md",
-    "03.Area/03.Area.md",
-    "99.Manage/files/테스트-주도-개발.pdf",
-    "99.Manage/files/TDD_low.pdf",
-    "99.Manage/files/TDD_low 1.pdf",
-    "99.Manage/files/DDD-START!.pdf",
-    "03.Area/study/DEV/TDD",
-    "03.Area/study/DEV/Java/Spring"
+    "README.md",
+    "docs/SECURITY.md",
+    "docs/CONTRIBUTING.md",
+    "docs/CODE_OF_CONDUCT.md",
+    "docs/CHANGELOG.md",
+    "sitemap.xml",
+    "robots.txt",
+    "naver7048fae7e1205c8d238751ecd29623eb.html",
+    "assets/fonts/D2Coding.woff",
+    "assets/fonts"
   ]
 }
