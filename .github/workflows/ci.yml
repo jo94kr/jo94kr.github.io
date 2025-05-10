@@ -2,9 +2,7 @@ name: CI
 
 on:
   push:
-    branches:
-      - master
-      - "hotfix/**"
+    branches: [master, "hotfix/**"]
     paths-ignore:
       - ".github/**"
       - "!.github/workflows/ci.yml"
@@ -16,35 +14,32 @@ on:
 
 jobs:
   build:
+    # prebuilt Ruby + npm LTS가 모두 준비돼 있는 공식 이미지
     runs-on: ubuntu-22.04
-
-    strategy:
-      fail-fast: false
-      matrix:
-        ruby: [ "3.1", "3.2" ]
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0  # posts 의 lastmod 계산용
 
-      - name: Setup Ruby
+      - name: Setup Ruby (3.2)
+        # 24.04 인식 버그 패치 포함 최신 릴리스 고정
         uses: ruby/setup-ruby@v1.233.0
         with:
-          ruby-version: ${{ matrix.ruby }}
-          bundler-cache: true
+          ruby-version: 3.2          # 3.2.x 최신
+          bundler-cache: true        # Gemfile.lock 기반 캐싱
 
-      - name: Setup Node (LTS)
+      - name: Setup Node (LTS 20)
         uses: actions/setup-node@v4
         with:
-          node-version: 20.x
+          node-version: 20           # LTS 고정이 재현성에 안전
           cache: npm
 
-      - name: Build Assets
+      - name: Install & Build Front-assets
         run: |
           npm ci
           npm run build
 
-      - name: Test Site
+      - name: Run Site Tests
         run: bash tools/test.sh
