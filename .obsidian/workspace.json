@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-17-항해-플러스-백엔드-과정-9주차-회고.md",
+                "file": "_posts/2025-05-10-캐시와-캐시-스탬피드-이해-및-방지 전략.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-10-캐시와-캐시-스탬피드-이해-및-방지 전략"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -62,14 +69,18 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 470.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0556e46a8490024f",
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-17-항해-플러스-백엔드-과정-9주차-회고.md",
+                "file": "_posts/2025-05-10-캐시와-캐시-스탬피드-이해-및-방지 전략.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +104,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "2025-05-10-캐시와-캐시-스탬피드-이해-및-방지 전략 의 백링크"
             }
           },
           {
@@ -102,10 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-17-항해-플러스-백엔드-과정-9주차-회고.md",
+                "file": "_posts/2025-05-10-캐시와-캐시-스탬피드-이해-및-방지 전략.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "2025-05-10-캐시와-캐시-스탬피드-이해-및-방지 전략 의 나가는 링크"
             }
           },
           {
@@ -115,8 +130,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
             }
           },
           {
@@ -125,8 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-17-항해-플러스-백엔드-과정-9주차-회고.md"
-              }
+                "file": "_posts/2025-05-10-캐시와-캐시-스탬피드-이해-및-방지 전략.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025-05-10-캐시와-캐시-스탬피드-이해-및-방지 전략 의 개요"
             }
           },
           {
@@ -134,19 +158,33 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           },
           {
-            "id": "9e200f1ebb78073a",
+            "id": "c35d539ccbfa8a70",
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
+            }
+          },
+          {
+            "id": "a37e914b1ea11b4e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -155,23 +193,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:새 보드 만들기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-custom-frames:Open Formatter": false,
-      "templater-obsidian:Templater": false,
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-custom-frames:Open Formatter": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "dfad83dcb25b13d5",
   "lastOpenFiles": [
-    "_posts/2024-08-10-항해-플러스-백엔드-과정-8주차-회고.md",
+    "obsidian/template/post.md",
+    "_posts/2025-05-10-캐시와-캐시-스탬피드-이해-및-방지 전략.md",
+    "files/image/team_10.png",
     "_posts/2024-08-17-항해-플러스-백엔드-과정-9주차-회고.md",
+    "_posts/2024-08-10-항해-플러스-백엔드-과정-8주차-회고.md",
     "_posts/2024-07-27-항해-플러스-백엔드-과정-6주차-회고.md",
     "_posts/2024-07-28-동시성-문제-극복하기.md",
     "_posts/2024-08-03-캐시를-통한-성능-개선.md",
@@ -179,10 +222,8 @@
     "_posts/2024-07-20-항해-플러스-백엔드-과정-5주차-회고와-챕터2-후기.md",
     "_posts/2024-07-13-항해-플러스-백엔드-과정-4주차-회고.md",
     "_posts/2024-06-29-항해-플러스-백엔드-과정-2주차-회고.md",
-    "obsidian/template/post.md",
     "obsidian/template",
     "obsidian",
-    "files/image/team_10.png",
     "files/image",
     "files",
     "_posts/2019-08-08-write-a-new-post.md",
