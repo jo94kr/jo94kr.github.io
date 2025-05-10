@@ -27,9 +27,7 @@ jobs:
           fetch-depth: 0   # for posts's lastmod
 
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1.179.0   # ← 최신 릴리스
+        uses: ruby/setup-ruby@v1.179.0
         with:
           ruby-version: ${{ matrix.ruby }}
           bundler-cache: true
