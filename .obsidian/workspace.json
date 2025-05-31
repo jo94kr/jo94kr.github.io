@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-05-31-Spring-Boot-분산-시스템에서-Local-Cache-동기화하기-Redis-Pub-Sub-전략.md",
+                "file": "_posts/2025-05-31-분산-시스템에서-Local-Cache-동기화하기-Redis-Pub-Sub-전략.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-31-Spring-Boot-분산-시스템에서-Local-Cache-동기화하기-Redis-Pub-Sub-전략"
+              "title": "2025-05-31-분산-시스템에서-Local-Cache-동기화하기-Redis-Pub-Sub-전략"
             }
           }
         ]
@@ -208,7 +208,7 @@
   "active": "0a45faa69712d2f1",
   "lastOpenFiles": [
     "_posts/2025-05-20-대량-주문-트래픽-대응을-위한-대기열-기반-시스템-설계.md",
-    "_posts/2025-05-31-Spring-Boot-분산-시스템에서-Local-Cache-동기화하기-Redis-Pub-Sub-전략.md",
+    "_posts/2025-05-31-분산-시스템에서-Local-Cache-동기화하기-Redis-Pub-Sub-전략.md",
     "files/image/오류_및_재시도_흐름.png",
     "_posts/2024-06-15-항해-플러스-백엔드-과정을-시작하며.md",
     "_posts/2024-06-22-항해-플러스-백엔드-과정-1주차-회고.md",

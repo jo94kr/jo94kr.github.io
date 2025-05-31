@@ -1,5 +1,5 @@
 ---
-title: Spring Boot 분산 시스템에서 Local Cache 동기화하기 – Redis Pub/Sub 전략
+title: 분산 시스템에서 Local Cache 동기화하기 – Redis Pub/Sub 전략
 date: 2025-05-31 05:36:46 +0900
 categories:
   - 아키텍처
