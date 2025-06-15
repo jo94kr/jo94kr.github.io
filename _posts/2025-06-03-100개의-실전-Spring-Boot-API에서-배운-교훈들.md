@@ -1,6 +1,6 @@
 ---
 title: 100개의 실전 Spring Boot API에서 배운 교훈들
-date: 2025-06-15 04:50:26 +0900
+date: 2025-06-03 04:50:26 +0900
 categories:
   - Growth Mindset
 tags:
