@@ -6,6 +6,8 @@ categories:
 tags:
   - Spring
   - BackEnd
+  - Article
+  - Spring-Boot
 ---
 
 🖇️ 출처: [I Built 100 APIs with Spring Boot — Here’s What I Learned the Hard Way](https://medium.com/@robtrincley12/i-built-100-apis-with-spring-boot-heres-what-i-learned-the-hard-way-c5bfa51bb14d)
