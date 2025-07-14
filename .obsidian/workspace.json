@@ -4,19 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e299a79a68dacba3",
+        "id": "bd76120b4a24e577",
         "type": "tabs",
         "children": [
           {
-            "id": "4c1e7d23ecbad041",
+            "id": "15a0934312c9c63a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "_posts/2025-07-14-개발자의-알고리즘-서랍-첫-번째-정렬-을-꺼내다.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "2025-07-14-개발자의-알고리즘-서랍-첫-번째-정렬-을-꺼내다"
@@ -206,10 +205,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4c1e7d23ecbad041",
+  "active": "15a0934312c9c63a",
   "lastOpenFiles": [
-    "_posts/2025-06-04-나도-겪었던-Spring-Boot-실수들-한-개발자의-회고에-공감하며...md",
     "_posts/2025-07-14-개발자의-알고리즘-서랍-첫-번째-정렬-을-꺼내다.md",
+    "_posts/2025-06-04-나도-겪었던-Spring-Boot-실수들-한-개발자의-회고에-공감하며...md",
     "_posts/2025-05-31-분산-시스템에서-Local-Cache-동기화하기-Redis-Pub-Sub-전략.md",
     "_posts/2025-06-03-100개의-실전-Spring-Boot-API에서-배운-교훈들.md",
     "_posts/2024-07-20-항해-플러스-백엔드-과정-5주차-회고와-챕터2-후기.md",
