@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0  # posts 의 lastmod 계산용
 
@@ -31,7 +31,7 @@ jobs:
           bundler-cache: true        # Gemfile.lock 기반 캐싱
 
       - name: Setup Node (LTS 20)
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: 20           # LTS 고정이 재현성에 안전
           cache: npm
